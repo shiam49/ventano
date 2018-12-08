@@ -1,0 +1,43 @@
+body{
+    background-color: #fff;
+    padding-top: 70px; 
+}
+/** Login form **/
+.login-form{
+    max-width: 400px;
+    padding: 30px;
+    margin: 0 auto;
+    background-color: #FFF;
+    border: 1px solid #E5E5E5;
+ }
+.login-form h1{
+    font-size: 36px;
+    margin-bottom: 25px;
+    margin-top: 0;
+}
+.login-form label{
+    font-size: 15px;
+}
+.login-form input[type="text"],
+.login-form input[type="password"]{
+    font-size: 16px;
+    height: auto;
+    padding: 7px 9px;
+}
+
+.login-form button{
+    border-radius: 6px;
+    font-size: 18px;
+    line-height: 1.33;
+    padding: 10px 16px;
+}
+
+/** View Page **/
+.log-out {
+	font-size: 15px;
+    padding: 5px;
+    margin: 0 auto;	
+}
+.bootstrap-view-content{
+    padding: 15px;
+}
